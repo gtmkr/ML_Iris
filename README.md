@@ -1,1 +1,1 @@
-# ml-in-iot
+machine learning on iris dataset to classify flowers
